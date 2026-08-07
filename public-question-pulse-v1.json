@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-07T22:33:04.862Z",
+  "observationStatus": "observed",
+  "summary": "Public-web question patterns matched to reviewed answers or official publication leads. This is not a poll or a source-verification claim.",
+  "items": [
+    {
+      "id": "orders-modification",
+      "question": "Who can modify orders when circumstances change?",
+      "query": "orders amendment",
+      "status": "official-source-lead",
+      "receiptIds": []
+    },
+    {
+      "id": "special-incentive-pay",
+      "question": "Which special or incentive pays apply to my duty?",
+      "query": "special duty pay",
+      "status": "official-source-lead",
+      "receiptIds": []
+    },
+    {
+      "id": "bah-eligibility",
+      "question": "When am I entitled to BAH and at which rate?",
+      "query": "BAH start date",
+      "status": "official-source-lead",
+      "receiptIds": []
+    },
+    {
+      "id": "leave-denial-recall",
+      "question": "Who can deny, cancel, or recall me from leave?",
+      "query": "leave denied",
+      "status": "official-source-lead",
+      "receiptIds": []
+    },
+    {
+      "id": "record-correction",
+      "question": "How do I correct an error in my official personnel record?",
+      "query": "OMPF correction",
+      "status": "official-source-lead",
+      "receiptIds": []
+    },
+    {
+      "id": "adsep-notification-board",
+      "question": "Do I get notification processing or an administrative board?",
+      "query": "ADSEP board entitlement",
+      "status": "official-source-lead",
+      "receiptIds": []
+    }
+  ]
+}
