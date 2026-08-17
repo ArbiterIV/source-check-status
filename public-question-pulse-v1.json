@@ -1,13 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-10T14:48:19.870Z",
+  "generatedAt": "2026-08-17T11:54:54.442Z",
   "observationStatus": "observed",
   "summary": "Public-web question patterns matched to reviewed answers or official publication leads. This is not a poll or a source-verification claim.",
   "items": [
     {
-      "id": "orders-modification",
-      "question": "Who can modify orders when circumstances change?",
-      "query": "orders amendment",
+      "id": "special-incentive-pay",
+      "question": "Which special or incentive pays apply to my duty?",
+      "query": "special duty pay",
+      "status": "official-source-lead",
+      "receiptIds": []
+    },
+    {
+      "id": "bah-eligibility",
+      "question": "When am I entitled to BAH and at which rate?",
+      "query": "BAH start date",
       "status": "official-source-lead",
       "receiptIds": []
     },
@@ -26,23 +33,16 @@
       "receiptIds": []
     },
     {
-      "id": "adsep-notification-board",
-      "question": "Do I get notification processing or an administrative board?",
-      "query": "ADSEP board entitlement",
+      "id": "light-limited-duty",
+      "question": "What is the difference between light duty and limited duty?",
+      "query": "light duty restrictions",
       "status": "official-source-lead",
       "receiptIds": []
     },
     {
-      "id": "separation-benefits",
-      "question": "Which benefits or pay may be affected by separation?",
-      "query": "separation pay eligibility",
-      "status": "official-source-lead",
-      "receiptIds": []
-    },
-    {
-      "id": "characterization-service",
-      "question": "How is characterization of service decided?",
-      "query": "general discharge",
+      "id": "orders-modification",
+      "question": "Who can modify orders when circumstances change?",
+      "query": "orders amendment",
       "status": "official-source-lead",
       "receiptIds": []
     }
