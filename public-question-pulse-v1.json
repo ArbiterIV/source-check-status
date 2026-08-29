@@ -1,48 +1,48 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-17T11:54:54.442Z",
+  "generatedAt": "2026-08-29T06:52:23.010Z",
   "observationStatus": "observed",
   "summary": "Public-web question patterns matched to reviewed answers or official publication leads. This is not a poll or a source-verification claim.",
   "items": [
     {
-      "id": "special-incentive-pay",
-      "question": "Which special or incentive pays apply to my duty?",
-      "query": "special duty pay",
+      "id": "leave-cancellation-recall",
+      "question": "Who can cancel approved leave or recall me from ordinary leave?",
+      "query": "leave canceled after approval",
       "status": "official-source-lead",
       "receiptIds": []
     },
     {
-      "id": "bah-eligibility",
-      "question": "When am I entitled to BAH and at which rate?",
-      "query": "BAH start date",
+      "id": "separation-benefits",
+      "question": "Which benefits or pay may be affected by separation?",
+      "query": "separation pay eligibility",
       "status": "official-source-lead",
       "receiptIds": []
     },
     {
-      "id": "leave-denial-recall",
-      "question": "Who can deny, cancel, or recall me from leave?",
-      "query": "leave denied",
+      "id": "cnatt-local-instruction-boundary",
+      "question": "Which local schoolhouse rule applies here, and is the public copy actually current?",
+      "query": "CNATT local instruction",
       "status": "official-source-lead",
       "receiptIds": []
     },
     {
-      "id": "record-correction",
-      "question": "How do I correct an error in my official personnel record?",
-      "query": "OMPF correction",
+      "id": "cnatt-reporting-information",
+      "question": "Where and when do I report to my named CNATT unit or detachment?",
+      "query": "CNATT check in",
       "status": "official-source-lead",
       "receiptIds": []
     },
     {
-      "id": "light-limited-duty",
-      "question": "What is the difference between light duty and limited duty?",
-      "query": "light duty restrictions",
+      "id": "high-risk-training-rights",
+      "question": "How do training time-out, drop-on-request, medical screening, and safety controls work in high-risk training?",
+      "query": "training time out TTO",
       "status": "official-source-lead",
       "receiptIds": []
     },
     {
-      "id": "orders-modification",
-      "question": "Who can modify orders when circumstances change?",
-      "query": "orders amendment",
+      "id": "netc-holiday-training-policy",
+      "question": "What does the current NETC holiday training policy say about classes, leave, and liberty?",
+      "query": "CNATT holiday training",
       "status": "official-source-lead",
       "receiptIds": []
     }
