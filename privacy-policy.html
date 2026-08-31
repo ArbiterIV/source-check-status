@@ -20,19 +20,25 @@
 <body>
   <main>
     <h1>Sea Lawyer Privacy Policy</h1>
-    <p class="lede"><strong>Effective date:</strong> August 30, 2026</p>
+    <p class="lede"><strong>Effective date:</strong> August 31, 2026</p>
 
     <p class="notice">Sea Lawyer is an independent reference app. It is not endorsed by, sponsored by, or affiliated with the U.S. Navy, the Department of Defense, the Department of War, or any other government agency.</p>
 
     <h2>Short version</h2>
-    <p>Sea Lawyer does not require an account, run ads, sell personal information, or use advertising or analytics trackers. Searches, saved answers, preferences, and unanswered questions stay in the app's local storage unless you choose to share them outside the app.</p>
+    <p>Sea Lawyer does not require an account, run ads, sell personal information, or build advertising profiles. Saved answers, preferences, and unanswered questions you deliberately save stay in the app's local storage. During the private alpha, you may separately choose to share screened search-demand information so the maintainers can find missing topics. That choice is off until you opt in and can be turned off in the app.</p>
 
     <h2>Information stored on your device</h2>
-    <p>The app stores its reference library and may store your saved answers, display preferences, setup acknowledgement, access setting, cached source-status information, and unanswered questions you explicitly choose to save. This information is used only to operate the app on your device. Sea Lawyer does not receive a copy.</p>
+    <p>The app stores its reference library and may store your saved answers, display preferences, setup acknowledgement, access setting, cached source-status information, and unanswered questions you explicitly choose to save. This information is used only to operate the app on your device. Sea Lawyer does not receive a copy of those saved notes, answers, or preferences.</p>
     <p>You can remove this local information by using an available in-app clear option, clearing the app's data through your device settings, or uninstalling the app. Your operating-system or cloud-backup settings may retain app data according to Apple, Google, or your backup provider's policies.</p>
 
+    <h2>Optional private-alpha search improvement</h2>
+    <p>If you opt in, Sea Lawyer waits until you submit a search or tap an app suggestion. It does not transmit keystrokes or typing pauses. Before anything is queued, the app normalizes the phrase and automatically rejects searches shaped like operational details, contact information, identifiers, names, addresses, unit identifiers, or sensitive personal cases. Automated screening can miss details, so do not type private, medical-case, legal-case, restricted, controlled, or operational information.</p>
+    <p>The optional upload contains the screened phrase; whether it was typed or suggested; a bounded result type, match quality, and answer or publication count; up to three matching Sea Lawyer receipt identifiers; app and offline-library versions; a local aggregate count; and a random one-use retry identifier. Sea Lawyer does not add a name, email address, account, advertising identifier, or stable app-generated user, device, or session identifier.</p>
+    <p>The app may hold unsent aggregate counts for up to 14 days. Turning sharing off stops new uploads and clears unsent counts. The intake service increments daily phrase totals without retaining an individual search-event row. One-use retry identifiers expire after 14 days, below-reporting-threshold counters expire after 14 days, and reportable aggregate demand is retained for up to 90 days. Because no account or stable identifier is attached, maintainers do not have a reliable way to identify or individually delete one person's contribution after it has been combined. A phrase that contains identifying detail could still expose that detail; automated screening is imperfect, so do not enter it.</p>
+    <p>Search demand is visible only to Sea Lawyer's maintainers. It can prioritize which question needs official research, but popularity never supplies, changes, or verifies an answer. Official public authority and Sea Lawyer's receipt checks still control every answer.</p>
+
     <h2>Network requests</h2>
-    <p>Sea Lawyer periodically downloads small public files that report publication status and public question trends. The app does not include your search text or saved questions in those requests. Like most web hosts, the hosting provider may process standard connection information such as an IP address, date and time, device or browser type, and request logs for security and delivery. Sea Lawyer does not use that information to build user profiles.</p>
+    <p>Sea Lawyer periodically downloads small public files that report publication status and public question trends. Those download requests do not include your search text or saved questions. If you opt into private-alpha search improvement, the separate intake request contains only the fields described above. Like most web hosts, the hosting provider necessarily processes standard connection information such as an IP address, date and time, device or browser type, and security or delivery logs. Sea Lawyer does not add that connection information to its search-demand database or use it to build user profiles.</p>
 
     <h2>Official and third-party links</h2>
     <p>When you choose to open an official source or another external link, it opens outside Sea Lawyer. The destination site receives the normal information associated with a web request and applies its own privacy policy. Sea Lawyer does not control those sites.</p>
