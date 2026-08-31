@@ -1,50 +1,7 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T06:52:23.010Z",
-  "observationStatus": "observed",
-  "summary": "Public-web question patterns matched to reviewed answers or official publication leads. This is not a poll or a source-verification claim.",
-  "items": [
-    {
-      "id": "leave-cancellation-recall",
-      "question": "Who can cancel approved leave or recall me from ordinary leave?",
-      "query": "leave canceled after approval",
-      "status": "official-source-lead",
-      "receiptIds": []
-    },
-    {
-      "id": "separation-benefits",
-      "question": "Which benefits or pay may be affected by separation?",
-      "query": "separation pay eligibility",
-      "status": "official-source-lead",
-      "receiptIds": []
-    },
-    {
-      "id": "cnatt-local-instruction-boundary",
-      "question": "Which local schoolhouse rule applies here, and is the public copy actually current?",
-      "query": "CNATT local instruction",
-      "status": "official-source-lead",
-      "receiptIds": []
-    },
-    {
-      "id": "cnatt-reporting-information",
-      "question": "Where and when do I report to my named CNATT unit or detachment?",
-      "query": "CNATT check in",
-      "status": "official-source-lead",
-      "receiptIds": []
-    },
-    {
-      "id": "high-risk-training-rights",
-      "question": "How do training time-out, drop-on-request, medical screening, and safety controls work in high-risk training?",
-      "query": "training time out TTO",
-      "status": "official-source-lead",
-      "receiptIds": []
-    },
-    {
-      "id": "netc-holiday-training-policy",
-      "question": "What does the current NETC holiday training policy say about classes, leave, and liberty?",
-      "query": "CNATT holiday training",
-      "status": "official-source-lead",
-      "receiptIds": []
-    }
-  ]
+  "generatedAt": "2026-08-31T02:36:20.601Z",
+  "observationStatus": "no-eligible-items",
+  "summary": "No public-web question patterns are currently eligible for public display.",
+  "items": []
 }
